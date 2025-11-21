@@ -9,9 +9,7 @@
   <a href="https://leetcode.com/u/devidatta4525/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+ 
   <br>
   <img src="https://komarev.com/ghpvc/?username=devidattamishra45&label=Profile%20Views&color=0e75b6&style=flat" alt="devidatta-views" />
 </div>
