@@ -17,7 +17,7 @@
 ---
 
 ### 🎯 Career Objectives
-- 🏢 **Dream Role:** Software Engineering (SWE) at Google.
+- 🏢 ** Role:** Software Engineering & AI Engineering.
 - 🤖 **Focus Area:** AI Engineering & Large Language Models (LLMs).
 - 💻 **Current Status:** B.Tech 2nd Year Student honing DSA & System Design.
 
