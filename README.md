@@ -1,71 +1,107 @@
+# Hey, I'm Devidatta Mishra 👋
+
+### Third-Year Computer Science Engineering Student | Aspiring Software Engineer & AI Engineer
+
+I'm a third-year B.Tech CSE student at **SOA University (ITER)**, passionate about solving challenging problems, building useful software, and exploring Artificial Intelligence and Machine Learning.
+
+Currently, I'm strengthening my foundations in **Data Structures & Algorithms, Software Engineering, and Machine Learning** while building projects and preparing for software engineering internships.
+
+- 🎯 **Current Goal:** Prepare for Google SWE internships and other software engineering opportunities.
+- 💻 **Problem Solving:** 400+ LeetCode problems solved.
+- 🤖 **Exploring:** Machine Learning, Deep Learning, and Generative AI.
+- 🛠️ **Building:** Practical projects that combine software engineering and AI.
+- 📚 **Learning:** DSA, core CS fundamentals, and scalable application development.
+- 🌱 **Mindset:** Learn consistently, build in public, and improve every day.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devidatta-mishra-944b98351/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devidatta4525/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devidattamishra45)
+
+---
+
+## 🧠 What I'm Working On
+
+- **Data Structures & Algorithms:** Arrays, strings, binary search, trees, graphs, dynamic programming, and problem-solving patterns.
+- **Software Engineering:** Java, object-oriented programming, Git, databases, APIs, and backend development.
+- **AI & Machine Learning:** Python, data analysis, machine learning algorithms, and model evaluation.
+- **Generative AI:** Exploring LLMs, Retrieval-Augmented Generation (RAG), embeddings, and AI-powered applications.
+- **Computer Science Fundamentals:** Operating systems, computer networks, DBMS, and object-oriented design.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Software Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### AI & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Devidatta;Preparing+for+AI enginner+Software enginner;Aspiring+AI+Engineer;Full+Stack+Software+Engineer" alt="Typing Animation" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devidattamishra45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidattamishra45&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/devidatta-mishra-944b98351/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=devidattamishra45&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</div>
+
+---
+
+## 💻 LeetCode Journey
+
+<div align="center">
   <a href="https://leetcode.com/u/devidatta4525/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
- 
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=devidattamishra45&label=Profile%20Views&color=0e75b6&style=flat" alt="devidatta-views" />
-</div>
-
----
-
-### 🎯 Career Objectives
-- 🏢 ** Role:** Software Engineering & AI Engineering.
-- 🤖 **Focus Area:** AI Engineering & Large Language Models (LLMs).
-- 💻 **Current Status:** B.Tech 2nd Year Student honing DSA &  ai  area .
-
----
-
-### 🧠 AI & Research Focus
-- 🔭 **Current Project:** Building an **Enterprise Knowledge Assistant** using **RAG** & **Google Vertex AI**.
-- 🤖 **Deep Learning:** Exploring **CNNs**, **Transformers**, and **LLM Fine-tuning**.
-- 📚 **Learning:** Generative AI, Vector Embeddings, and Agentic Workflows.
-
----
-
-### 🧪 The Tech Stack
-<div align="center">
-  <p><b>Generative AI & Data Science</b></p>
-  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv&perline=7" />
-  </a>
-  <br><br>
-  
-  <p><b>Software Engineering & Web</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,react,html,css,git,github,vscode,idea&perline=10" />
+    <img src="https://leetcard.jacoblin.cool/devidatta4525?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Profile and Activity" />
   </a>
 </div>
 
+I use problem-solving practice to strengthen my algorithmic thinking, understand complexity, and prepare for technical interviews.
+
 ---
 
-### 📊 Coding & Problem Solving
+## 🚀 Featured Projects
+
+Here are the projects I'm building and improving as I grow as a software engineer.
+
+- **[College Placement Prep](https://github.com/devidattamishra45/college-placement-prep)** — A collaborative resource for coding questions, aptitude practice, and placement preparation.
+- **AI/ML Projects** — Practical experiments and applications developed while learning machine learning.
+- **Software Engineering Projects** — Applications focused on clean code, APIs, databases, and real-world problem-solving.
+
+*Explore my repositories for source code, documentation, and project updates.*
+
+---
+
+## 🌱 Beyond Coding
+
+I enjoy exploring emerging technologies, learning from the developer community, and helping students discover coding opportunities, internships, and hackathons.
+
+I believe in consistency, curiosity, and building things that solve real problems.
+
+**One step every day. One problem at a time. One project at a time.**
+
+---
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td>
-        <img height="160" src="https://github-readme-stats.vercel.app/api?username=devidattamishra45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devidatta's GitHub Stats" />
-      </td>
-      <td>
-        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devidattamishra45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://leetcode.com/u/devidatta4525/">
-    <img src="https://leetcard.jacoblin.cool/devidatta4525?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
+  <i>Always learning. Always building. Always improving.</i>
 </div>
